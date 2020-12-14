@@ -21,3 +21,5 @@ Doctor appointment application using django
 ### Patient Registration
 
 ![](Capture2.PNG)
+
+bol
